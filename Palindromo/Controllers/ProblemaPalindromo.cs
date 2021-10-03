@@ -9,13 +9,17 @@ using System.Threading.Tasks;
 namespace Palindromo.Controllers
 {
 
-    /*Nombre de la escuela: Universidad Tecnologica Metropolitana
+    /*
+     
+    Nombre de la escuela: Universidad Tecnologica Metropolitana
 
-    Asignatura: Aplicaciones Web Orientadas a Objetos
+
+
+    Asignatura: Aplicaciones Web Orientadas a Servicios
 
 
 
-    Nombre del Maestro: Chuc Uc Joel Ivan
+    Nombre del Maestro: Joel Ivan Chuc Uc
 
 
 
